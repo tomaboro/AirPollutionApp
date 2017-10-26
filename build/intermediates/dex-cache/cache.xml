@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/motek/Programming/AirPollutionApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/motek/Programming/AirPollutionApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f8024f776d7c5ed6bdcba7e7603e841948a71f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/motek/Programming/AirPollutionApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3ab4fb005759278e966ae950cb00f2aab8fbca8">
+        <dex dex="/home/motek/Programming/AirPollutionApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_73f6b922f77c908671b3f0beaa2c6f7ddb105b17/classes.dex" />
+    </item>
+
+</items>
